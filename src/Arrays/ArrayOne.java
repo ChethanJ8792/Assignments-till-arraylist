@@ -1,5 +1,6 @@
 package Arrays;
 
+
 public class ArrayOne {
 
 	public static void main(String[] args) 
